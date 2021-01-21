@@ -6,7 +6,7 @@ from colorama import init, Fore, Back, Style
 from discord.ext import commands
 
 client = discord.Client()
-TOKEN = 'Njc1MTM5MDcyMzgxMTU3Mzk3.XjzBUA.hHmLizrZJ4HXJ4AzOfy3HAQ_YIo'
+TOKEN = 'REDACTED'
 BOT_PREFIX = "_"
 bot = commands.Bot(command_prefix=BOT_PREFIX)
 
